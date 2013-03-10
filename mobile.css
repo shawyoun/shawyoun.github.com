@@ -1,0 +1,37 @@
+body{background-color: green}
+
+#homePic
+{
+  position: relative;
+  text-align:left;
+}
+
+#centerText
+{
+  background-color: red;
+  text-align:left;
+  color: white;
+  font-size: 40px;
+  width: 400px;
+}
+
+h1{font-size: 50px;}
+
+h2{font-size: 45px;}
+
+p{font-size: 40px;}
+
+ul{font-size: 40px;}
+
+#biotext
+{
+  font-size: 40px;
+}
+
+#bottomCorner{
+     position:relative;
+     bottom:0;
+     left:0;
+     background-color: white;
+     font-size: 30px;
+}

@@ -1,0 +1,27 @@
+body
+{background-color: #858225}
+
+#homePic
+{
+  position: relative;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#centerText
+{
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  width: 600px;
+}
+
+#bottomCorner{
+     text-align: right;
+     position:relative;
+     bottom:0;
+     right:0;
+     background-color: red;
+}
