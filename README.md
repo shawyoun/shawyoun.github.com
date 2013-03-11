@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 shawyoun.github.com
 ===================
 
@@ -10,3 +11,9 @@ mobile devices. They both have in excess of 5 rules each.
 The HTML contains all the content requested. 
 
 I did not collaborate with anyone else on this assignment, and it took me app. 4 hours to complete.
+=======
+responsive
+==========
+
+Repository for Lab 4.
+>>>>>>> 11c291f5ce0032611bf431b631edd0555d644596
